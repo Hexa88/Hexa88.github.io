@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.0.16</version>
+  <version>1.0.17</version>
   <url>https://github.com/Hexa88/hexa88.github.io/raw/master/Installer.msi</url>
   <changelog>https://hexa88.github.io/</changelog>
   <mandatory>true</mandatory>
